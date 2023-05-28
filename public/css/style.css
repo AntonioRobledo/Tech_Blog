@@ -1,0 +1,38 @@
+header {
+    background-color: #483C32;
+    padding: 1px;
+}
+
+.navIcon {
+    color: white;
+}
+
+.navIcon:hover {
+    color: tan;
+}
+
+.pageHeaders {
+    border-radius: 10px;
+    background-color: lightcyan;
+    box-shadow: 10px 10px gray;
+}
+
+.signup-form {
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.loginHeader {
+    background-color: #483C32;
+    color: white;
+}
+
+.addPost {
+    background-color: tan;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-top: 600px;
+}
